@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Pradeep Hegde </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/pradeep-hegde-a6919aab/">LinkedIn</a> |
+  <a href="https://github.com/hegde-23">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  <br>
+  </p>
+  
+  
+  
+  
+  
+  theme: jekyll-theme-minimal
